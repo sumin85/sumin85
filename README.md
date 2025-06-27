@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Html5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
 </div>
 <h5 align="center"> $\oldstyle{tool}$ </h5>
 <div align="center">
