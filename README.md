@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> 👩‍💻🐥프론트 개발자 지망생 </h2>
 
-<br>
 
 ***
 <br>
